@@ -1,0 +1,14 @@
+body {
+  background: rgb(155, 90, 35);
+  opacity: 0%;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  height: 10%;
+  border-color: black;
+  flex: 1;
+  font: "Family Open Sans";
+}
+head {
+  background: black;
+}
