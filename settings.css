@@ -1,5 +1,5 @@
 body {
-  background: rgb(155, 90, 35);
+  background: salmon;
   opacity: 0%;
   margin: 0;
   padding: 0;
@@ -11,4 +11,24 @@ body {
 }
 head {
   background: black;
+}
+
+title {
+  width: 10%;
+  padding: 0;
+  margin: 0;
+  color: salmon;
+}
+
+.nav1 {
+  background: black;
+  width: 85%;
+  height: 10vh;
+  align-items: right;
+}
+
+.upperpart {
+  background: gray;
+  padding: 10px;
+  margin: 0px;
 }
