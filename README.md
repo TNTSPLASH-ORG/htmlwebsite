@@ -1,9 +1,5 @@
-# htmlwebsite
+# HTMLWebsite
 
-Css and Html Website
+##Made By
 
-## This HTMLWebsite, was made by a begineer. 
-
-
-The Html,css,and js were all worked hard on.
-Don't Steal
+This html, and css website was made by Batdev0! This is his first css and html website. He followed some tutorials for this.
