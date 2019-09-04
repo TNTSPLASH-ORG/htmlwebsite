@@ -140,3 +140,7 @@ h1 span {
     filter: blur(0px);
   }
 }
+
+splash {
+  font-size: 32px
+}
