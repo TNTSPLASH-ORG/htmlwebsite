@@ -1,6 +1,7 @@
 # HTMLWebsite
 Credits:
 https://github.com/kevin-powell (Watched youtube tutorials)
+https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog (CSS Animations) 
 
 ## Made by:
 
