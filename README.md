@@ -2,6 +2,7 @@
 Credits:
 https://github.com/kevin-powell (Watched youtube tutorials)
 https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog (CSS Animations) 
+## Issue Helpers:
 https://github.com/dcritchlow (Helped With Issues)
 ## Made by:
 
