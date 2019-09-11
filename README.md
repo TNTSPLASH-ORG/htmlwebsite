@@ -7,6 +7,11 @@ https://github.com/dcritchlow (Helped With Issues)
 ## Made by:
 
 This html, and css website was made by Batdev0! This is his first css and html website. He followed some tutorials for this.
+He will take suggestions and will import some of the good ones! If you would like to suggest just get a hold of me some how.
+
+## Ways To Get A hold of me:
+
+Email: (Coming Soon)
 
 ## Other
 
