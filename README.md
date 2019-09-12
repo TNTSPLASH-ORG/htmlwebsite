@@ -18,11 +18,18 @@ Email: (Coming Soon)
 ## TntSplash Staff Team:
 
   Lead Developer/Owner: ComputeTech_
+  
   Lead Admin/Manager: LeminHaed
+  
   Admin: n/a
+  
   Moderator: xWolfie, Midaroo, Fluffy_Panda12 
+  
   Helper: n/a
+  
   Trial-Mod: n/a
+  
   Chat-Mod: n/a
+  
 
 Helping with issues puts you into the credits list!
