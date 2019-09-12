@@ -3,7 +3,7 @@ Credits:
 https://github.com/kevin-powell (Watched youtube tutorials)
 https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog (CSS Animations) 
 ## Issue Helpers:
-https://github.com/dcritchlow (Helped With Issues)
+https://github.com/dcritchlow 
 ## Made by:
 
 This html, and css website was made by Batdev0! This is his first css and html website. He followed some tutorials for this.
@@ -13,6 +13,16 @@ He will take suggestions and will import some of the good ones! If you would lik
 
 Email: (Coming Soon)
 
-## Other
+# Other
+
+## TntSplash Staff Team:
+
+  Lead Developer/Owner: ComputeTech_
+  Lead Admin/Manager: LeminHaed
+  Admin: n/a
+  Moderator: n/a
+  Helper: n/a
+  Trial-Mod: n/a
+  Chat-Mod: n/a
 
 Helping with issues puts you into the credits list!
