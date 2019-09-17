@@ -72,6 +72,7 @@ span {
 
 .btn-animation:hover {
   background-color: #3498db;
+  color: #3498db;
   z-index: -1;
   transition: 0.8s;
 }
@@ -79,6 +80,7 @@ span {
 .btn-animation::before{
   top: 0;
   border-radius: 0 0 50% 50%;
+      color: #3498db;
 }
 
 .page-wrap {
