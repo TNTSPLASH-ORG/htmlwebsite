@@ -14,8 +14,8 @@ He will take suggestions and will import some of the good ones! If you would lik
 
 ## Email:
 
-  tyler@tntsplash.net
-  brody@tntsplash.net
+ Lead-Admin:  tyler@tntsplash.net
+ Owner: brody@tntsplash.net
 
 # Other
 
