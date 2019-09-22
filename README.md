@@ -12,7 +12,10 @@ He will take suggestions and will import some of the good ones! If you would lik
 
 ## Ways To Get A hold of me:
 
-Email: (Coming Soon)
+## Email:
+
+  tyler@tntsplash.net
+  brody@tntsplash.net
 
 # Other
 
