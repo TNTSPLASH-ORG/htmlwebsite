@@ -1,5 +1,5 @@
 # HTMLWebsite
-<img alt="preview badge" src="https://img.shields.io/github/issues/TNTSPLASH-ORG/htmlwebsite"> <img alt="preview badge" src="https://img.shields.io/github/stars/TNTSPLASH-ORG/htmlwebsite"> <img alt="preview badge" src="https://img.shields.io/github/forks/TNTSPLASH-ORG/htmlwebsite"> <img alt="preview badge" src="https://img.shields.io/github/liscence/TNTSPLASH-ORG/htmlwebsite">
+<img alt="preview badge" src="https://img.shields.io/github/issues/TNTSPLASH-ORG/htmlwebsite"> <img alt="preview badge" src="https://img.shields.io/github/stars/TNTSPLASH-ORG/htmlwebsite"> <img alt="preview badge" src="https://img.shields.io/github/forks/TNTSPLASH-ORG/htmlwebsite"> <img alt="preview badge" src="https://img.shields.io/github/license/TNTSPLASH-ORG/htmlwebsite">
 ## Credits: 
 https://github.com/kevin-powell (Watched youtube tutorials)
 https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog (CSS Animations) 
