@@ -15,26 +15,7 @@ He will take suggestions and will import some of the good ones! If you would lik
 
 ## Email:
 
- Lead-Admin:  tyler@tntsplash.net
- Owner: brody@tntsplash.net
-
-# Other
-
-## TntSplash Staff Team:
-
-  Lead Developer/Owner: ComputeTech_
-  
-  Lead Admin/Manager: LeminHaed
-  
-  Admin: n/a
-  
-  Moderator: xWolfie, Midaroo, Fluffy_Panda12 
-  
-  Helper: n/a
-  
-  Trial-Mod: n/a
-  
-  Chat-Mod: n/a
-  
-
+ CO-CEO:  tyler@tntsplash.net
+ CEO: brody@tntsplash.net
+ 
 Helping with issues puts you into the credits list!
